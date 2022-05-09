@@ -6,35 +6,16 @@ A student software engeneer & Development.
 
 ## 📌 Pinned Repositories
 
+![blogatico](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=blogatico&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
+![Ionic3-Curse](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Curse&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
+![ionic-3-essencial](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=ionic-3-essencial&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
+![partiuformar](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=partiuformar&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
+![Ionic3-Magma2](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma2&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
+![Ionic3-Magma3](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma3&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
+
 <br>
 
-<a href="https://github.com/almirramb/blogatico.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=blogatico&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-
-<a href="https://github.com/almirramb/Ionic3-Curse.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Curse&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/almirramb/ionic-3-essencial.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=ionic-3-essencial&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<a href="https://github.com/almirramb/partiuformar.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=partiuformar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<a href="https://github.com/almirramb/Ionic3-Magma2.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma2&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<a href="https://github.com/almirramb/Ionic3-Magma3.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma3&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 
 <br>
@@ -43,17 +24,12 @@ A student software engeneer & Development.
 ## &#x1f4c8; GitHub Stats
 
 
-![Almiramb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almirramb&show_icons=true&theme=cobalt&title_color=fff)
+![Almiramb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almirramb&show_icons=true&theme=cobalt&title_color=fff&include_all_commits&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almirramb&langs_count=3&theme=cobalt&title_color=fff)](https://github.com/almirramb/github-readme-stats)
 
 
 <br>
-<a href="https://github.com/almirramb">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almirramb&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/almirramb">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=almirramb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Almiramb's GitHub Stats" />
-</a>
+
 
 <br>
 <br>
