@@ -7,11 +7,11 @@ A student software engeneer & Development.
 ## 📌 Pinned Repositories
 
 ![blogatico](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=blogatico&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
-![Ionic3-Curse](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Curse&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
-![ionic-3-essencial](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=ionic-3-essencial&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
-![partiuformar](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=partiuformar&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
-![Ionic3-Magma2](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma2&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
-![Ionic3-Magma3](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma3&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=dark")
+![Ionic3-Curse](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Curse&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=#1A2B34&theme=cobalt")
+![ionic-3-essencial](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=ionic-3-essencial&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=#4AB197&bg_color=1A2B34&theme=dark")
+![partiuformar](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=partiuformar&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=#5F9EA0&theme=dark")
+![Ionic3-Magma2](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma2&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=#2F4F4F&theme=dark")
+![Ionic3-Magma3](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma3&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=#4682B4&theme=dark")
 
 <br>
 
