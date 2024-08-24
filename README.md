@@ -11,18 +11,18 @@ A student software engeneer & Development.
 ![Ionic3-Curse](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Curse&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=#1A2B34)
 ![ionic-3-essencial](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=ionic-3-essencial&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=#4AB197&bg_color=1A2B34)
 ![partiuformar](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=partiuformar&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=#5F9EA0)
-![Ionic3-Magma2](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma2&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=#2F4F4)
-![Ionic3-Magma3](https://github-readme-stats.vercel.app/api/pin/?username=almirramb&repo=Ionic3-Magma3&theme=cobalt&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=#4682B4)
-
-<br>
-
-
 
 
 <br>
+
+
+
+
+<br>
 <br>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; 
+GitHub Stats
 
 
 ![Almiramb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almirramb&show_icons=true&theme=cobalt&title_color=fff&include_all_commits&line_height=27)
@@ -32,6 +32,11 @@ A student software engeneer & Development.
 <br>
 
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=almirramb&theme=juicyfresh&title=Repositories,Experience,Stars,Issues,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/almirramb/github-profile-trophy)
+
+<br>
 <br>
 <br>
 
